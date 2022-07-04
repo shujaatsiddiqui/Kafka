@@ -1,0 +1,11 @@
+Run Kafka:
+=========
+cd kafka_2.13-3.2.0/bin
+bash kafka-server-start.sh ~/kafka_2.13-3.2.0/config/kraft/server.properties
+
+
+Links and References:
+=======================
+Install kafka on windows:
+https://www.conduktor.io/kafka/how-to-install-apache-kafka-on-windows-without-zookeeper-kraft-mode
+
