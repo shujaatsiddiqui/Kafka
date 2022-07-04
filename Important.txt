@@ -9,3 +9,7 @@ Links and References:
 Install kafka on windows:
 https://www.conduktor.io/kafka/how-to-install-apache-kafka-on-windows-without-zookeeper-kraft-mode
 
+
+Java Source Code:
+==================
+https://github.com/conduktor/kafka-beginners-course
