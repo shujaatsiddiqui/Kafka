@@ -1,7 +1,7 @@
 Run Kafka:
 =========
 cd kafka_2.13-3.2.0/bin
-bash kafka-server-start.sh ~/kafka_2.13-3.2.0/config/kraft/server.properties
+kafka-server-start.sh ~/kafka_2.13-3.2.0/config/kraft/server.properties
 
 
 Links and References:

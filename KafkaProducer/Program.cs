@@ -3,5 +3,7 @@ using KafkaProducer;
 
 Console.WriteLine("Enter Client Id");
 string clientId = Console.ReadLine();
-await new ProducerManager().ProduceAsync(clientId);
+//await new ProducerManager().ProduceAsync(clientId);
+
+await new ProducerManager().BatchProduceAsync(clientId);
 Console.WriteLine("Hello, World!");
